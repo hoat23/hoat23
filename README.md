@@ -45,12 +45,6 @@ No activity tracked
 <br>
 
 ---
-
-## 📈 GitHub Stats  ![Profile views](https://komarev.com/ghpvc/?username=jefrnc&color=blueviolet)
-![jefrnc's GitHub stats](https://github-readme-stats.vercel.app/api?username=jefrnc&theme=blue-green&show_icons=true&line_height=27&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jefrnc&theme=blue-green&langs_count=3)
-![jefrnc's github streak](https://github-readme-streak-stats.herokuapp.com/?user=jefrnc&theme=blue-green)
-
 ---
 
 <div align="center">
