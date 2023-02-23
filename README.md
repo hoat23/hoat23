@@ -1,18 +1,15 @@
 ### hey there 
-<a href="https://www.instagram.com/jefrnc/">
-  <img align="left" alt="Joseph's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+<a href="https://www.youtube.com/channel/UC3byPxgezoGK4qVdPm7E_tw">
+  <img align="left" alt="Hoat23 Youtube" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://twitter.com/jefrnc">
-  <img align="left" alt="Joseph | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/joffranco/">
-  <img align="left" alt="Joseph's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/deiner-zapata/">
+  <img align="left" alt="Deiner'Z LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
 
-<h1 align="center">Hi 👋, I'm Jose Franco</h1>
-<h2 align="center"><b>🚀 Awesome Devops | ☁️ CloudOps ☁️</b></h2>
+<h1 align="center">Hi 👋, I'm Deiner Zapata</h1>
+<h2 align="center"><b>🚀 Developer | Data Engineer | IIoT | ☁️Cloud | IT consultant </b></h2>
 
 ---
 
@@ -20,7 +17,7 @@
 
 - 💬 Ask me about **AWS, Serverless, Pulumi**
 
-- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/joffranco/)
+- 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/deiner-zapata/)
 
 ---
 
